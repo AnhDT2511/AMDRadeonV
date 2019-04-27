@@ -1,0 +1,708 @@
+# Which of the following situations best represents group communication as defined in the textbook? | d. Jury members deliberating a court case.
+# A group with 7 members has the potential for _______ different types of interactions. | e. 966
+# What is the ideal group size for a problem-solving discussion? | c. 5-7 people
+# According to your textbook, the most important factor separating successful groups from unsuccessful ones is | b. a clear goal.
+# According to your textbook, a group's context refers to | e. all of the above.
+# To which basic element of communication is Grace giving special attention when she prepares for an important group meeting by making sure her business suit is pressed, that her hair is well-groomed, that her perfume is pleasant but subtle, and that she takes a breath mint before entering the meeting room? | a. channels
+# In a communication transaction, feedback represents | d. the response or reaction to a message.
+# Which of the following examples best illustrates the systems theory principle that "systems try to maintain balance in their environment"? | a. Members may take time off to "play" when work becomes too intense.
+# The cooperative interaction of several factors that results in a combined effect greater than the total of all individual parts is referred to as | d. synergy.
+# A stamp collecting club is an example a | b. social group.
+# Your family is an example of a | a. primary group.
+# A local Alcoholics Anonymous chapter is an example of a | b. self-help group.
+# Guests who appear on talk shows and interact with other guests for the benefit of an audience are participating in a | c. panel discussion.
+# A group of police officers presenting short, uninterrupted speeches on different aspects of community safety are participating in a | a. symposium.
+# A college appoints a moderator and holds an open discussion to provide students with the opportunity to ask questionsand express their concerns regarding a proposed increase in tuition. This settingfor group communication is an example of a | b. forum.
+# A college's Board of Trustees that makes public policy decisions may be classified as a | d. governance group.
+# Which of the following characteristics demonstrates one of the disadvantages of working in groups? | c. Groups require significant time, energy, and resources.
+# A virtual group is one which | a. relies on technology to communicate.
+# Statements that explain or predict how people communicate are | a. theories.
+# When seeking to resolve group tensions, the dialectic approach recommends a __________________ approach. | c. both/and
+# All of the following pairs of common folk proverbs illustrate the contradictory nature of dialectic tensions EXCEPT | d. "Waste not, want not" and "Music makes the world go 'round. "
+# In group dialectic terms, effective groups balance structure and | c. spontaneity.
+# In dialectic terms, effective groups balance conflict with | b. cohesion.
+# In dialectic terms, effective groups balance task dimensions with | e. social dimensions.
+# The open system ?closed system group dialectic can be described as | c. balancing external support and recognition with internal group solidarity and rewards.
+# The homogeneous ?heterogeneous group dialectic can be described as | b. balancing member similarities and differences.
+# The engaged ?disengaged group dialectic can be described as | e. balancing member energy and labor with the group's need for rest and renewal.
+# A both/and approach to resolving dialectic tensions in groups empowers members. Which of the following examples demonstrates the characteristics of autonomy in an empowered group? | c. The group has the freedom to make decisions and implements its decisions.
+# In Latin, the word "credo" means | a. "I believe."
+# All of the following principles of ethical communication are included in the National Communication Association's Credo for Ethical Communication EXCEPT | a. We endorse freedom of speech only when the truth does not cause detrimental results or harm others.
+# In which of Tuckman's Group Development Stages do members resolve status conflicts and learn to work as a cohesive team? | d. norming
+# In which of Tuckman's Group Development Stages are members socially cautious and overly polite? | b. forming
+# You have just joined a newly formed group responsible for developing a recycling program for your community. At first, group members are somewhat uncomfortable working with strangers. Which of Tuckman's stages of group development is your group experiencing? | c. forming
+# Which is the correct order for Tuckman's 5 group development stages? | a. forming, storming, norming, performing, adjourning
+# Because most members of a new group want to create a good first impression, they tend to be overly polite with one another during their initial meetings. They don't interrupt one another and avoid expressingstrong opinions. These behaviors are characteristic of | b. primary tension.
+# Ernest Bormann's description of primary tension resembles Tuckman's _________ stage of group development. | a. forming
+# Ernest Bormann's description of _________ resembles Tuckman's forming stage of group development. | b. primary tension
+# In which of which of Carolyn Anderson's group socialization stages do members adjust to group expectations, assume needed roles, and balance their personal goals with the group's goals? | c. encounter phrase
+# In which of which of Carolyn Anderson's group socialization stages do members become fully integrated into the group's culture? | d. assimilation phase
+# According to Locke and Latham's Goal Theory, all of the following criteria are critical for developing effective group goals EXCEPT | c. the goals are simple and easy to achieve.
+# _________ occur when members' private goals conflict with the group's common goals and represent what people really want rather than what they say they want. | b. Hidden agendas
+# All of the following statements are true about hidden agendas EXCEPT | b. Hidden agendas occur when there is poor group leadership.
+# Implicit norms are | c. rarely discussed by members.
+# Which of the following examples depicts an explicit norm? | d. Everyone abides by the "be on time; be out on time" rule set on the first day of the group meetings.
+# Which of the following examples depicts an implicit norm? | d. Members have learned that because meetings usually begin fifteen minutes later than scheduled, they can arrive a little late.
+# Your group has discussed and decided that members will take turns recording and typing the minutes from each meeting. A(n) _______________ has been established. | d. explicit norm
+# Whenever your department has a staff meeting, the supervisor always sits at the head of the table. Group members know they should not take the seat at the head of the table even though they have not been told to avoid that seat. A(n) _______________ is operating in the group. | b. implicit norm
+# Which of the 4 categories of norms is operating in the following example? Your group makes decisions by majority rule. A(n) _______________ is operating in this circumstance. | d. procedural norm
+# Which of the 4 categories of norms is operating in the following example? Most group members defer to or agree with Tasha and Bill when they make a recommendation. A(n) _______________ is operating in this circumstance. | a. status norm
+# Stanley Milgram's classic experiment to find out whether people would obey commands to give "subjects" painful electric shocks demonstrated that | b. pressure from an authority figure can outweigh individual judgment and morality.
+# In Philip Zimbardo's famous study, students were assigned the role of guard or prisoner in a realistic-looking prison in a Stanford University basement. The experiment was halted before its scheduled completion because | c. the "guards" became abusive and the "prisoners" became passive and depressed.
+# Stanley Milgrim (Yale University) and Philip Zimbardo (Stanford University) conducted famous experiments that demonstrated the | a. pressure to conform to authority rule.
+# Nonconformity | b. can improve group performance.
+# Which of the following strategies is recommended as an effective method for dealing with destructive nonconformity in groups? | ...
+# Max was disturbed by the way in which group members interrupted one another during discussions. He could see that some of the quieter members were intimidated by this norm. Max decided that he would try to change the norm by continuing to talk right through an interruption in the hope that the members who usually interrupted would stop. What strategy was Max using to change group norms? | e. continued interaction using a different behavior
+# Which of the following characteristics was NOT one of the 8 characteristics that emerged in the Carl Larson and Frank LaFasto study that asked "What are the secrets of successful teams?" | a. adherence to group norms
+# How do virtual groups differ from face-to-face groups during the storming stage of group development? | a. Technical problems and differences in members' technical expertise affect how members compete for high-status roles.
+# Which of Maslow's Hierarchy of Needs is primarily met when a neighborhood watch group forms to deter crime in the community? | a. safety
+# Which of Maslow's Hierarchy of Needs is primarily met when someone joins an exclusive club or is elected as leader of a prestigious group? | c. esteem
+# According to Maslow's Hierarchy of Needs, in what order do we satisfy the following needs? | e. physiological, safety, belongingness, esteem, self-actualization
+# According to Schutz's FIRO Theory, a group member who feels accepted by the group is an | a. ideal social member.
+# According to Schutz's FIRO Theory, if group members' affection needs are not met, they may become | d. overpersonal or underpersonal members.
+# Control in a group refers to the | d. extent to which members feel competent, confident, and free to make their own decisions.
+# When a group member exhibits a unique set of skills or behavioral patterns that serve specific functions within the group, that member has assumed a(n) ___________. | b. role
+# _______________ functions describe group members who strive to get along and satisfy one another's needs while pursuing a shared goal. | c. Maintenance
+# _______________ functions describe negative roles in which individual needs are put ahead of both the group's goal and other members' needs. | a. Self-centered
+# "I will check our Affirmative Action Policy and see what it says about. . . ." This statement would most likely be made by a group member functioning in which of the following task roles? | a. information seeker
+# All of the following functions are group task roles EXCEPT | b. compromiser.
+# All of the following functions are group maintenance roles EXCEPT | e. information giver.
+# R. Meredith Belvin's Team-Role Theory differs from the older Benne and Sheats's role classifications in that Belvin's roles | c. recognize that group members seek out and perform roles that are most natural to them.
+# According to Belvin's Team-Role Theory, which of the following roles describes a conscientious, methodical person who transforms group decisions into practical actions? | b. implementer
+# "Maria, we haven't heard from you yet and want to make sure that everyone gets a chance to weigh in on this issue. " Thisstatement would most likely be made by a group member functioning in which of the following roles? | d. gatekeeper
+# "That's fine with me. Just tell me what to do." This statement would most likely be made by a group member functioning in which of the following roles? | a. teamworker-follower
+# If a group member says "That's a stupid idea. Think you could come up with anything better?" as a way of intimidating others, asserting authority, and monopolizing discussion, which role is this person demonstrating? | c. dominator
+# _____________ refers to the level of fear or anxiety associated with either real or anticipated communication with another person or persons. | c. Communication apprehension
+# According to McCroskey's research, what percent of the general population experiences very high levels of communication apprehension? | b. 20%
+# Which of the following descriptions is likely to be true of highly apprehensive group members compared to low apprehensive members? | e. Highly apprehensive members agree with others rather than voice disagreement.
+# Your textbook suggests all of the following strategies for reducing communication apprehension in groups EXCEPT | c. Force yourself to speak as much and as often as you can to a variety of large and small audiences.
+# All of the following are means of providing constructive feedback EXCEPT | e. Give feedback to advance your own goals.
+# Cognitive restructuring is an anxiety reduction technique that involves | c. substituting worrisome, irrational thoughts about communicating with more positive thoughts.
+# Walther's theory of hyperpersonal communication in virtual groups indicates that some members | d. are more confident in mediated settings than face-to-face meetings.
+# Group members with low levels of communication apprehension can help members with high apprehension reduce their level of fear and anxieties about communicating by using all of the following strategies EXCEPT | a. openly discuss a member's apprehension with the entire group.
+# Assertiveness seeks an appropriate balance between | b. passivity and aggression.
+# Compulsive talkers tend to | c. dominate discussions.
+# All of the following are characteristics of passive (nonassertive) group members EXCEPT | c. They feel a greater sense of power.
+# All of the following are characteristics of aggressive group members EXCEPT | d. They are highly respected.
+# All of the following are characteristics of passive-aggressive group members EXCEPT | c. They usually follow through with promised contributions.
+# Mark agrees to take notes during an important meeting at which he disagrees with many group decisions. The group asks him to bring copies of the notes to the next meeting so that everyone has a written record of the discussion and group decisions. At the next meeting, Mark is absent. At the following meeting, he tells everyone that he's still working on the notes and may not have them for awhile. What sort of behavior does Mark exhibit? | d. passive aggression
+# Which of the following strategies and skill are effective when you need to and should say "No" to someone? | b. Don't say "Yes" or "No" until you hear and understand a specific request
+# When analyzing and adapting group member diversity, you should consider members' | e. all of the above
+# During the 1990s, ______________ were the fastest growing racial/ethnic group. | c. Hispanic/Latino Americans
+# Which of the following groups would be considered a co-culture? | e. all of the above
+# In the homogeneous ? heterogeneous group dialectic, homogeneous refers to | b. a group composed of members who are the same or similar.
+# According to your textbook, there are 3 levelsof diversity in every group. Which of the following dimensions characterize the third (external) dimension? | d. education, religion, and income,
+# People who believe that their culture is better than other cultures or that their culture should be the role model for other cultures would be classified as | a. ethnocentric.
+# People who have biased beliefs about group members that are not based on direct experience and firsthand knowledge or have irrational feelings of dislike and even hatred for certain groups would be classified as | c. prejudiced.
+# All of the following statements are characteristics of people who have prejudices EXCEPT | a. They deny opportunities granted to certain groups of people such as employment, equal rights, and housing.
+# Which of the following traits are included in the Big Five Personality Traits and in the Myers-Briggs Type Indicator? | a. extraversion
+# In dialectic terms, the opposite or counterpart of a Myers-Briggs judger is | e. a perceiver.
+# Oscar is very outgoing and tends to talk more than others during group discussions. He enjoys working in the group and encourages others to get involved. Which Myers-Briggspersonality trait best describes Jasper? | b. extrovert
+# Wanda tends to focus on details of the group project. She prefers to concentrate on one task at a time. Of all the group members, Wanda may be the most practical and realistic. Which Myers-Briggspersonality trait best describes Wanda? | a. sensor
+# Kim is people-oriented. She wants everyone in the group to get along. She often spends extra time helping other group members. Which Myers-Briggspersonality trait best describes Kim? | e. feeler
+# Dennis is always the most organized member of his group. He frequently encourages the group to plan ahead. He develops lengthy "To Do" lists of tasks for the group to follow. Which Myers-Briggs personality trait best describes Dennis? | b. judger
+# Even when everyone else in the group is upset or confused, Anthony stays cool, calm, and objective. He doesn't mind making tough decisions and can't understand why other group members get upset about things that are not relevant to the issue under discussion. In most situations, Anthony thinks it is more important to be right than liked. Which Myers-Briggspersonality trait best describes Anthony? | d. thinker
+# Reggie is highly structured and good at coordinating the group's work and keeping it organized. He never misses a deadline and expects others to do the same. Which Myers-Briggs personality trait best describes Reggie? | b. judger
+# Jason appears to be a very private person.He carefully thinks about what he is going to say before speaking. He enjoys the group but would prefer to work alone. Which Myers-Briggs personality trait best describes Jason? | b. introvert
+# Which scholar(s) define(s) an intercultural dimension as an aspect of a culture that can be measured relative to other cultures? | b. Geert Hofstede
+# Which of the following cultural dimensions is ranked very high in the United States? | a. individualism
+# Which of the following groups of countries is the most collectivist? | b. Central and South America
+# Collectivist cultures place greater value on | d. collaboration and cooperation.
+# In high-context cultures, messages are | a. implicit.
+# In cultures with high uncertainty avoidance, people | e. want predictability and clear rules of behavior.
+# In ___________cultures, people are more dependent on language to express what they mean. | c. low-context
+# More monochronic cultures are in | d. northern Europe and North America.
+# Which characteristics are common in monochronic time cultures? | a. Members like to concentrate on one job before moving to another.
+# In cultures with masculine values, | e. all of the above are true
+# According to Hofstede, the people of Japan, Venezuela, and Italy live in a(n) ________________ culture. | d. masculine
+# People who share beliefs such as "It is the duck that squawks that gets shot," or "Seeing is better than hearing," would be characterized as members of a _______________ culture. | b. high-context
+# According to Hofstede's dimensions of culture, which country is ranked #1 in terms of masculine values? | b. Japan
+# High uncertainty avoidance is characterized by beliefs that | c. deviant ideas and behavior should be suppressed.
+# Which cultural dimension would be characterized by the following components: (1) subordinates should be consulted; (2) privileges and status symbols are frowned upon; (3) parents treat their children as equals; and (4) teachers expect students to express their opinions in class? | d. low power distance
+# Which of the following statements would be made by someone from a low-context culture? | d. I like to be accurate, clear, and direct when I talk to others.
+# In You Just Don't Understand, Deborah Tannen's two-world hypothesis concludes that | e. all of the above are true
+# Your textbook urges both men and women to adapt to the opposite sex's way of thinking and making decisions by heeding all of the following recommendations EXCEPT | e. Women should avoid disagreeing and arguing with men.
+# All of the following communication behaviors are discussed in Cheris Kramarae's Muted Group Theory EXCEPT | c. Women should avoid challenging men in positions of power.
+# Which generation is described as follows: they are confident and have high self-esteem, are collaborators who favor teamwork, and generally like keeping their career options open. | d. Millennials
+# Which generation is described as follows: they are workaholics who are willing to challenge the status quo and are politicallyadept on the job. They believe that they are always right, but are willing to work hard to get what they want. | b. Boomers
+# A 2007 study of college students investigating whether men or women talk more found that | c. generally, men talk more than women.
+# All of the following statements about religion are true EXCEPT | c. 1/2 of the world's population is Muslim.
+# Which of the following religions is the oldest? | c. Judaism
+# At the end of every month, a sales manager offers a cash bonus to the most successful salesperson. What type of power is this leader using? | c. reward power
+# A supervisor threatens to dismiss any member of the sales team who does not meet the sales quota by the end of the quarter. What type of power is this leader using? | b. coercive power
+# You have been promoted to a managementposition at work. You expect employees to fulfill your requests because you are the boss. What type of power is this? | d. legitimate power
+# Dianna has been elected as leader of the research group because she has published more than any other team member on the research topic. What type of power is this? | c. informational power
+# Which category of power is operating when a group member nominates someone as a leader by saying, "I recommend that Romero be appointed chair of the building committee given his extensive experience as a successful contractor"? | e. expert power
+# Your group has chosen Madeleine as its leader because she has demonstrated strong organizational and problem-solving skills as well as a talent for motivating members and resolving conflict. What type of power does Madeleine have? | a. referent power
+# The Center for Business Ethics at Bentley College poses all of the following questions to help leaders decide whether their behavior is ethical EXCEPT | a. Do you avoid expressing your own opinions to make sure that they do not influence how group members think and act?
+# When designated leaders are "plucked from a group in order to lead," they should | e. discuss ground rules for interaction while assuring group members of continued friendship.
+# All of the following behaviors are recommended strategies for becoming an emergent group leader EXCEPT | d. Avoid expressing your own opinion.
+# Trait Leadership Theory, also known as the "Great Man" theory, contends that | c. leaders are born, not made.
+# Vu tries to maintain strict control over the Spring Festival Planning Committee. He insists on determining the direction and outcome of the committee's discussion. According to Styles Leadership Theory, which leadership style is Vu using? | b. autocratic
+# As chairperson of the PTA's election committee, Vicky believes in practicing social equality. She shares decision making with the group. According to Styles Leadership Theory, which leadership style is Vicky using? | a. democratic
+# Even though Wayne is chairperson of the finance committee, he does little or nothing to help the group. He tends to let the group take charge of its decisions and actions. Which leadership style is Wayne using? | d. laissez-faire
+# Autocratic leaders | e. Both b and c.
+# Laissez-faire leaders | e. all of the above
+# Which theory of leadership explains how leaders can become more effective once they have carefully analyzed themselves,their groups, and the circumstances in which they must lead? | c. situational theory
+# If "task-motivated" describes your leadership style, Fiedler's Contingency Model of Leadership Effectiveness predicts that you will be least successful when | e. you have a moderate degree of power and task structure.
+# Fred Fiedler's Contingency Model of Leadership Effectiveness contends that the 3 important dimensions in every leadership situation are | a. leader-member relations, task structure, and the leader's amount of power and control.
+# Fred Fiedler's Contingency Model of Leadership Effectiveness claims that relationship-motivated leaders | e. may do all of the above.
+# According to Fiedler's Contingency Model of Leadership Effectiveness, which of the following situations is the best match for a relationship-motivated leader? | d. There are moderately good leader-member relationships, a moderately clear task, and a moderate amount of power.
+# According to the Hersey-Blanchard Situational Leadership Model, as a group's readiness increases, leaders should move through 4 different leadership behaviors. Which answer depicts the order in which these behaviors usually occur? | a. tell, sell, participate, delegate
+# According to the Hersey-Blanchard Situational Leadership Model, a leader should try to ____________ when group members are able as well as willing and confident. | d. delegate
+# The participating stage in Hersey-Blanchard's Situational Leadership Model is similar to Tuckman's _________ stage of group development. | d. performing
+# All of the following characteristics distinguish transformational leadership EXCEPT | a. experience.
+# The 5M Model of Leadership Effectiveness focuses on all of the following interdependent leadership functions EXCEPT | b. mediating conflict.
+# Modeling leadership behavior in the 5M Model of Leadership Effectivness includes all of the following strategies EXCEPT | c. maintaining control at all times.
+# According to the 5M Model of Leadership Effectiveness, all of the following items are characteristic of effective decision making by group leaders EXCEPT | c. the ability to identify and make popular decisions.
+# As the group's leader, Grace makes sure that everyone in her group is committed to the group's common goal. She also helps solve interpersonal problems and conflicts, recognizing outstanding group work. Which of the following leadership functions in the 5M Model of Leadership Effectiveness does Grace's behavior exemplify? | b. Motivating members
+# Raphael has been assigned the leadership task of managing an office in which most of the employees are young or new tothe company. He decides that when problems or setbacks occur, he will not blame the group or its members. Instead, he will use the situation as a teachable moment and make sure that members accept personal responsibility for a problem and its consequences. He will also look for situations in which group members can assume leadership responsibilities. Which of the following leadership functions in the 5M Model of Leadership Effectiveness does Raphael's behavior exemplify? | e. Mentoring members
+# Research verifies all of the following conclusions about women and leadership EXCEPT | c. women who act "ladylike" are viewed as much more effective than women who behave like strong male leaders.
+# Jim Collins, author of Good to Great, claims that unless you are willing to keep your ego in check for the sake of the group, you won't be an effective leader. In other words, you must seek a balance between | b. professional will and personal humility.
+# Members from uncertainty avoidance cultures prefer | a. more structure and instructions from a leader.
+# A leader who prefers a democratic approach to decision making and leadership may frustrate members who come from a(n) ____________ culture. | e. high power distance
+# In order to achieve an optimal group experience, which of the following dialectic tensions should a group negotiate to achieve a both/and resolution? | e. all of the above
+# Which of the following group dialectics is MOST applicable in Chapter 6, "Group Motivation"? | e. engaged ? disengaged
+# For the purpose of discussing group motivation, Maslow's 5 needs can be divided into 2 categories: satisfiers and motivators. Which one of the following needs would be classified as a satisfier rather than a motivator? | a. safety needs
+# Which 2 of Maslow's needs would be classified as satisfiers rather than motivators? | a. physiological and safety needs
+# Which of Maslow's needs can a group meet if it deliberately limits its membership to carefully selected, notable individuals? | c. esteem needs
+# Which of the following strategies is mostlikely to motivate group members with strong inclusion needs? | b. Tell them how valuable they are to the group.
+# Expectancy-Value Theory | b. explains why the probability of achieving a goal is as important as the goal itself.
+# Which theory would explain why even when a goal is highly valued (becoming a billionaire or dancing with the stars), you may not be highly motivated to pursue that goal if the chance of reaching it is very small? | c. Expectancy Value Theory
+# In terms of the 8 basic Myers-Briggs types, which of the following strategies is most likely to motivate an intuitive? | b. Encourage visioning, creativity, and brainstorming.
+# In terms of the 8 basic Myers-Briggs types,which of the following strategies is most likely to motivate an introvert? | a. Provide thinking time before and during discussions.
+# Group members' Myers-Briggs types affect their beliefs about and behavior in groups. Which of the following beliefs would be characteristic of a perceiver? | e. Groups need freedom to examine multiple options during a discussion.
+# Kenneth Thomas describes 4 categories of intrinsic motivation needed to energize and reinforce work. They are | b. meaningfulness, choice, competence, and progress.
+# In terms of Thomas's 4 categories of motivators, you can promote a sense of meaningfulness by | e. volunteering for worthwhile group tasks that interest you.
+# Which of the following strategies can help you motivate other members by promoting a sense of choice in your group? | c. Seek and take advantage of new opportunities.
+# Which of the following motivational strategies can help you promote a sense of progress in your group? | b. Recognize and celebrate group accomplishments.
+# The most visible symptom of an unmotivated group is | b. apathy.
+# Which of the following strategies is NOT an effective tool for motivating virtual groups? | b. Let the group create its own agenda.
+# Controlling feedback | a. tells members what to do.
+# All of the following guidelines can helpyou use "it" statements to provide informative feedback EXCEPT | c. "It" statements provide your personal opinion about a member of the group.
+# A reprimand can best be described as | b. a form of feedback that identifies deficiencies.
+# Before reprimanding a group member or a group as a whole, be sure you can answer all of the following questions EXCEPT | e. Will the reprimand help you achieve your personal goals?
+# Which of the following statements about the value of extrinsic rewards is the most accurate? | a. They are granted by supervisors rather than group members.
+# A survey examining employee turnover found that the chief reason people give for leaving a job is related to | d. the need for praise and recognition.
+# Leaders with ________________ power are more likely to motivate their members. | b. referent and persuasive
+# The textbook suggests 4 criteria for developing a reward system for groups. Which answer reflects those criteria? | a. fair; equitable; competitive; appropriate
+# The textbook suggests 4 criteria for punishing a group member. Which answer reflects these criteria? | b. predictable; immediate; consistent; impersonal
+# Which of the following statements is most accurate about using punishment as a motivational tool? | a. It does not motivate.
+# Suppose someone tells your group "If you finish this eighteen-month project on time, I'll send each of you a person thank-you note. " According to your textbook, this reward is not based on well-conceived,objective criteria. In this case, the reward is not | d. appropriate.
+# Which of the following terms is used to describe the personal feelings and emotions connected to the meaning of a word? | c. connotation
+# Defining a computer as "a programmable electronic device that stores, retrieves, and processes data" represents what type of meaning? | b. denotation
+# If reading or hearing the word "computer" evokes a negative image of an increasingly complex software nightmare that frustrates and infuriates you, what type of meaning is influencing your response to the word? | c. connotation
+# Which of the following is an example of an abstract word? | e. fairness
+# Which of the following words would be considered the most concrete description of a member's behavior? | d. burps
+# _______________ is the means we use to achieve group goals, the stimulus we use to build relationships, and the evidence we use to assess group work. | d. Team talk
+# Which of the following statements illustrates the Social Equality Dimension of team talk? | b. "Hey guys, let's find out where Lee stands on this before we do anything this far out."
+# Which of the following statements illustrates the Conflict Management Dimension of team talk? | c. "Could we back up and look at this from a different angle?"
+# All of the following communication strategies can help improve a group's team talk EXCEPT | a. Express your individual needs.
+# How should you use team talk to produce a stronger, more cooperative group? | e. all of the above
+# The statement "Let's keep working on this report until we're ready for a dinner break. That way we may not have to meet tomorrow" is an indicator of which team talk dimension? | a. identification
+# The specialized or technical language of a profession is referred to as | e. jargon.
+# At a regular study group meeting, one member asks that everyone be able to "summarize the most important information in each chapter." At the next meeting, a group member distributes an outline of the textbook's important concepts but wonders why no one else in the group has made the same effort. This misunderstanding is an example of | d. bypassing.
+# In a section on avoiding abusive language, your textbook suggests that if you take action against others, make sure you avoidall forms of verbal abuse EXCEPT | e. expressing your personal objections.
+# Researchers such as Deborah Tannen claim that men and women use language differently. Men, she maintains, are more likely to | b. assert their ideas and verbally compete with others.
+# Which of the following answers represents an accent rather than a dialect? | c. Someone from Asia says "lice" instead of rice.
+# In reviewing the research on dialects, Carley Dodd has drawn several conclusions. Which statement is NOT one of Dodd's conclusions? | c. It would be unethical to speak differently at home than you would speak at work.
+# The variations in vocabulary, pronunciation, syntax, and style that distinguish speakers from different ethnic groups and geographic areas are referred to as | b. dialects.
+# When African Americans speak one way among white people or in business settings and quite differently at home, they are | c. codeswitching.
+# Research suggests that nonverbal communication accounts for between _________% of the meaning we communicate to others. | e. 60-70
+# Researchers maintain that good-looking people _______________ than less attractive people. | e. all of the above
+# The study of body movement and physical expression is referred to as | a. kinesics.
+# Posture, touch, and gestures are examples of | e. kinesics.
+# While preparing for a corporate job interview, Richard pays careful attention to selecting appropriate clothing (including the long-sleeved shirt to hide his tattoo), reminding himself to smile and establish eye contact with the person who will be interviewing him, and answering possible questions in a strong, confident voice. What aspect of nonverbal communication has Richard failed to consider? | d. body movement
+# According to your textbook, task-oriented leaders are attracted to the head of a table, while more socially oriented leaders are likely to sit | a. in the middle position at the side of a table.
+# Anthropologist Edward T. Hall identifies 4 zones of interaction used by most North Americans. Which of the followinganswers is NOT one of Hall's zones? | d. business distance
+# What are the distance parameters most North Americans use when interacting with new acquaintances and strangers? | c. 4 feet to 8 feet
+# Members of most well-established groups interact with one another at Hall's | b. personal distance.
+# Jack Gibb describes 6 pairs of communication behaviors that influence whether a group's climate is defensive or supportive.Which of the following communication behaviors is the opposite of evaluation? | e. description
+# According to Jack Gibb and his notion of supportive/defensive communication, which communication behavior is the opposite of strategic? | e. spontaneous
+# The statement "That's a stupid way to approach the problem" is an example of which type of response? | b. evaluative
+# Which dimension of a supportive communication climate is evident when group members are flexible, offer ideas, and welcome suggestions from others? | b. provisionalism
+# After presenting a proposed solution to a group problem, Carlos says "I can't see any other way of solving this that makes sense. " Which defensive behavior is exemplified in Carlos's statement? | a. certainty
+# Toby presents a proposed solution to a group problem and says "If it's okay with everyone, I'd like to explain how this solution worked in a group I once belonged to and how we pulled together to make it work. It may help us with this problem." Which supportive behavior is exemplified in Toby's statement? | c. equality
+# Aisha laughs and smiles when she talks, stands close to other group members in a relaxed posture, and uses direct eye contact. What characteristic of nonverbal communication is she using? | b. nonverbal immediacy
+# All of the following nonverbal behaviors are characteristics of nonverbal immediacy EXCEPT | c. more leaning back.
+# __________ is the ability to understand, analyze, respect, and respond to the meaning of another person's spoken and nonverbal messages. | b. Listening
+# Studies have found that listening occupies _______________ of a college student's communicating time. | c. more than 50%
+# Several studies report that without listening training, most people listen at ______ efficiency. | b. 25%
+# Unlike working memory theory, short-term memory | c. helps you remember about 7 (plus or minus 2) different items or bits of information at one time.
+# Researchers conclude that of the total time most people spend communicating in a given day, they spend about ________% of that time listening. | e. 40-70
+# Stephen Covey, author of The 7 Habits of High Effective People, uses listening to illustrate the 3 components of an effective habit. According to Covey, which of the following answers is a critical component of an effective listening habit? | b. desire
+# Suppose your group suggests having a meeting on Saturday morning. Nicole seems upset. You want to understand how she feels about the proposed meeting. When she explains her concerns, you should focus your efforts on | b. empathic listening.
+# Two committee members make significantly different recommendations for the date and format of the company's annual picnic. Which type of listening will help you decide which suggestion to support? | a. analytical listening
+# What type of listening is most appropriate when you want to acknowledge a member's effective language skills, use ofhumor, or skillful presentation of arguments? | d. appreciative listening
+# What type of listening is most appropriate when you want to accurately understand the meaning of group members' spoken and nonverbal messages? | a. comprehensive listening
+# What type of listening is most appropriate when you want to form appropriate opinionsabout the content of a message? | c. analytical listening
+# What type of listening is most appropriate when you want to understand and identify a person's feelings or motives? | b. empathic listening
+# What type of listening is so essential that it forms the basis for the other 4 types of listening? | e. discriminative listening
+# You can become a more empathic listener by | e. doing all of the above.
+# You can become a more effective analytical listener by | d. evaluating the quality of arguments and evidence.
+# You can become a more effective appreciative listener by | e. all of the above
+# Task-oriented members tend to be particularly effective at | a. comprehensive and analytical listening.
+# Maintenance-oriented members tend to be particularly effective at | c. empathic and appreciative listening.
+# All of the following behaviors are examples of self-centered listening EXCEPT | a. listening to evaluate the quality of arguments and evidence used by others.
+# All of the following answers describe the strong link between listening skills and successful leadership EXCEPT | c. Leaders interrupt members who talk too much to ensure that everyone gets an
+# Good listeners use their extra thought speed productively. They do all of the following EXCEPT | e. Listen exclusively for specific facts and statistics.
+# Identify the negative listening attitude that does not follow the Golden Listening Rule. | d. superior
+# When Ralph Nichols wrote "We must always withhold evaluation until our comprehension is complete," which listening strategy was he describing? | d. listen before you leap
+# Which of the follow listening strategies would you be using if you asked "Am I right in saying that all of us agree to meet on Saturday to finish the project?" | e. help your group listen
+# Which of the following statements is NOT a characteristic of effective paraphrasing? | c. It is the ability to repeat what a person has said.
+# ______________refers to the degree to which you match the importance of and emotions in the speaker's message in your response. | b. Paraphrasing depth
+# Suppose Julia says, "Among all the other things I worry about, I have an important exam coming up and I fear that, given my busy schedule, I won't have enough time to study." Responding with, "You seem to be very upset about doing well on the exam" would be an inaccurateparaphrase because | a. it responds to only one example, instead of responding to Julia's larger problem of coping with a busy schedule.
+# Differences in personality types may affect the way group members listen. Which of the Myers-Briggs personality types may be the best comprehensive listeners in a group? | a. introverts
+# A study of ways in which the college students from different cultures listen concludes that ________ students are less willing and less patient listeners than students from other cultures. | b. U.S. American
+# Your textbook describes the dilemma students face when taking notes during a discussion or in the classroom. Which of the following statements best describes this dilemma? | b. The value of notes decreases as the volume of your notes increase.
+# All of the following questions can help you assess your internal thought processes as you listen EXCEPT | e. How can I interrupt to comment on what I'm hearing?
+# The members of a civic association's committee on community safety disagree on whether to install more expensive street lighting throughout the development. What type of conflict is the group experiencing? | c. substantive
+# The members of a civic association committee charged with addressing safety issues in the community disagree over whether to begin by surveying residents about their safety concerns or to start by consulting local law enforcement for safety suggestions. What type of conflict is the group experiencing? | e. procedural
+# Joe gets angry with Delores during a committee meeting because she interrupts his remarks and suggests that his ideas are a waste of time. What type of conflict is occurring in this situation? | a. affective
+# Attribution Theory is useful in explainingthe sources of group conflict. All of the following answers are examples of how attributions can prompt anger among group members EXCEPT | e. What other members do seems to reflect member needs.
+# Which of the following statements characterizes constructive conflict? | a. Members focus on the issues.
+# You can help promote constructive conflict by abiding by all of the following principles EXCEPT | b. Members encourage tough competition among one another in order to make the best decisions.
+# Which of the following suggestions can help you apologize to a group when an apology is appropriate? | d. Follow through on any promises to correct the situation.
+# When a member is more concerned with his or her own goals than meeting the needs of the group, which conflict style is the member using? | c. competition
+# Which conflict style would be appropriate ifthe issue is very important to others but is not very important to you; you realize that you are wrong or that you have changed your mind; it is more important to preserve group harmony than resolve the issue? | a. accommodation
+# Some club members want to increase membership dues by $7.00. Other club members want to increase them by $3.00. They have reached an impasse on the issue, so they decide to split the difference and raise the dues by $5.00. What type of conflict style did the group use? | e. compromise
+# Which conflict style has a high concern for group goals and a low concern for the member's personal goals? | a. accommodation
+# Family members disagree about where to go for a vacation this year. Some members want a location where there will be a lot to do. Other members just want to relax. They discuss many possible sites before deciding on a cruise. They agree that a cruise offers opportunities for both relaxation and recreation. Which approach to conflict did this family use? | b. collaboration
+# Nang tries to change the subject whenever group members argue. She also refuses to comment on controversial issues. What conflict style does Nang use? | d. avoidance
+# When a member gives in to others at the expense of his or her own goals, what conflict style is the member using? | d. accommodation
+# When a member searches for new solutions that will achieve both the individual goals of group members and the group goals, what conflict style is the member using? | c. collaboration
+# When a member concedes some goals in order to achieve others, what conflict style is the member using? | a. compromise
+# When a member attempts to change the topic, which conflict style is a member using? | b. avoidance
+# Which dialectic tension is represented in the 5 traditional conflict styles: accommodation, avoidance, collaboration, competition, and compromise? | d. concern for personal goals ? Concern for group goals
+# When face-to-face interaction is not convenient or possible, which of the following communication technologies is best suited for groups dealing with conflict? | b. videoconferences
+# Your textbook offers all of the following guidelines for making an effective apology EXCEPT | c. Explain why your actions are justified.
+# What do the 4Rs stand for in the 4Rs Method of Analyzing a Conflict? | c. Reasons, Reactions, Results, Resolution
+# Which of the following is NOT part of the 4R method of Conflict Management? | d. Reinterpretation
+# If you assume that group members mean well and you feel free to express your feelings and ideas to others, you are on your way to dealing with conflict using | b. the A-E-I-O-U Model.
+# Which method of conflict resolution employs the services of an impartial third party for the purpose of guiding, coaching, and encouraging the disputants toward agreement? | b. mediation
+# Which of the following conflict managementmethods is expressed as "We should express our concerns about the conflict and suggest a solution"? | e. the A-E-I-O-U Model
+# Mediation experts Stephen Littlejohn and Kathy Domenici suggest the following strategies for resolving conflict constructively EXCEPT | a. Show strength and conviction by supporting your own position.
+# Which of the following elements in the Harvard Negotiation Project's principled negotiation process asks a group to seek fair standards for resolving a conflict or choosing an option? | d. criteria
+# All of the following behaviors are more characteristic of the ways in which women respond to conflict EXCEPT | c. Women are more likely to address conflict privately rather than in front of the entire group.
+# When helping group members from collectivist cultures maintain and save "face," you should keep in mind all of the following perspectives about conflict and "face" EXCEPT | c. In individualistic cultures, "saving face" is more important than winning an argument.
+# Which of the following statements is characteristic of a cohesive group? | c. Members want to conform to group expectations.
+# As leader of her group, Mira frequently reminds members that their combined contributions are essential to group success. Which strategy for developing group cohesiveness is Mira using? | d. emphasizing teamwork
+# Which symptom of groupthink is expressed when one group member confronts another by saying "Why aren't you in favor of this? You're the only one who's against it. Give it up!"? | d. pressure on dissent
+# Which symptom of groupthink is expressed when a group member says "Of course, we're right. We have a perfect safety record, have done this many times, and nothing's gone wrong"? | e. illusions of invulnerability
+# All of the following answers are characteristic of groupthink EXCEPT | e. critically evaluating options.
+# All of the following methods are appropriate for minimizing the potential for groupthink EXCEPT | c. Avoid asking questions and do notdemand justifications from others.
+# Problem solving occurs when a group | c. develops a plan for reducing or eliminating the harmful effects of a problem.
+# All of the following statements describe decision making in groups EXCEPT | a. Groups usually take less time to makea decision than an individual working alone.
+# As a decision-making method, voting works best when | d. there is no other way to break a deadlock.
+# A company's recycling task force is composed of 15 members. If the task force makes decisions based on a consensus, how many members must be in favor of the group decision? | e. 15
+# All of the following guidelines help a group achieve consensus EXCEPT | d. Use techniques such as trading one decision for another.
+# What are the signs of a false consensus? | b. In order to avoid disagreement and conflict, group members agree on a common decision.
+# There are 12 members in your group. How many members must be in favor of a proposal when deciding by authority rule? | a. 1
+# A company's recycling task force gathered information on various recycling programs and met several times to choose which program would best suit the needs of the company. The group's recommendation was presented to the company's vice president of operations, who ultimately chose a program other than the one recommended by the task force. Which method of decision making was used in this situation? | a. authority rule
+# "How many of our company employees hire a daycare provider to watch their children during the workday?" This group discussion question represents a question of | c. fact.
+# "Is it appropriate for parents to bring their children to work when they can't get a babysitter or their daycare center closes for a day?" This group discussion question represents a question of | e. value.
+# "How can the company assist employees with their childcare needs?" This group discussion question represents a question of | a. policy.
+# "Who will be the next student governmentpresident?" This discussion question represents a question of | d. conjecture.
+# A Congressional debate on a bill to increase penalties for fraud committed by business CEOs is a question of | c. policy.
+# In their book, Decision Making Styles, Suzanne Scott and Reginald Bruce look at 5 decision-making styles. Group members who say "It just feels like the right thing to do" are most likely using the __________ decision-making style. | b. intuitive
+# In their book, Decision Making Styles, Suzanne Scott and Reginald Bruce look at 5 decision-making styles. Groups members who say "If you think it's okay, then I'll do it" are most likely using the __________ decision-making style. | c. dependent
+# In their book, Decision Making Styles, Suzanne Scott and Reginald Bruce look at 5 decision-making styles. Which of these styles is most like the Myers-Briggs's personality trait of thinker? | a. rational
+# All of the following benefits can result when a group uses structured problemsolving procedures effectively EXCEPT | a. increased time and effort.
+# Which of the following problem-solving procedures is based on John Dewey's Reflective Thinking Process? | a. the Standard Agenda
+# All of the following steps are part of the Standard Agenda format for group problem solving EXCEPT | b. establishment of procedure
+# The first 3 steps in the Standard Agendaformat of group problem solving are | c. task clarification, problem identification, fact finding.
+# Getting bogged down in analyzing the problem is referred to as | d. analysis paralysis.
+# In what way is Functional Theory different than the Standard Agenda method of problem solving? | e. all of the above
+# The Functional Theory approach to problem solving focuses on | e. preparation, competence, and communication.
+# The first 3 steps in the Single Question Format for problem solving are | b. identify the problem, create a collaborative setting, analyze the issues.
+# Which of the following characteristics makes the Single Question Format different compared to the Standard Agenda? | d. It focuses on goal clarity and cultivating a supportive communication climate.
+# All of the following answers represent basic stages in the development of group creativity EXCEPT | c. interpretation.
+# Your group needs to come up with a discussion topic for a class assignment. The group works together, suggesting as many topics as possible. Members welcome all ideas and do not criticize the suggestions of other members. Which decision-making method is the group using? | c. brainstorming
+# All of the following are considered guidelines for effective brainstorming EXCEPT | d. Avoid combining ideas.
+# _______________ was developed by Delbecq and Van de Ven as a way of maximizing participation in problem-solving and program-planning groups while minimizing some of the interpersonal problems associated with group interaction. | d. Nominal Group Technique
+# During Phase 1 (Idea Generation) of Nominal Group Technique, | b. members, in turn, present one idea from their privately written list.
+# Researchers investigating the usefulness of brainstorming and Nominal Group Technique conclude that Nominal Group Technique (NGT) works better for generating ideas for all of the following reasons EXCEPT | b. members in brainstorming sessions produce fewer ideas than NGT groups.
+# Consider using the Decreasing Options Technique (DOT) when | d. the group wants to ensure equal opportunities for input by all members.
+# The major advantage and reason for using the DOT method is that it | c. helps reduce and refine a large number of suggestions into a manageable number of ideas.
+# Which is the correct order of the four steps in the Decreasing Options Technique? | a. generate ideas, post ideas, sort ideas, dot ideas
+# Lee Towe presents 4 sources of action that guide how we solve problems. Which source does Towe describe as "We have developed a new way to do it"? | d. innovation
+# One of the reasons groups are often reluctant to think creatively is that they have preconceived notions about what can and can't be done. In such cases, your group may want to try the _____________ method of enhancing creativity. | b. ask "what if?"
+# There are several problem-solving realities that can prevent a group from working effectively and ethically. For example, if members resist or dismiss information that doesn't mesh with their personal inclinations and attitudes, what problem-solving reality may impair group effectiveness? | b. pre-existing preferences
+# There are several problem-solving realities that can prevent a group from working effectively and ethically. For example, a strong and stubborn leader can lead group members off on tangents and irrelevant discussions that have nothing to do with the group's goal. In this particular case, ____________ will likely affect the outcome of every decision and problem the group confronts. | c. power
+# There are several problem-solving realities that can prevent a group from working effectively and ethically. For example, a member may side with a group leader into order to gain the leader's attention and backing. In this particular case, ____________ will likely affect the outcome of every decision and problem the group confronts. | a. politics
+#  Group members' tone of voice, eye contact,and physical proximity can tell you as much or more about their thoughts and feelings than the words they speak. | T 
+#  African American and Latino members may be more sensitive to the nonverbal components of messages, whereas European Americans may rely on and trust a member's words to convey meaning. | T 
+#  Group members' tone of voice, eye contact,and physical proximity can tell you as much or more about their thoughts and feelings than the words they speak. | T [Lyser <3]
+#  African American and Latino members may be more sensitive to the nonverbal components of messages, whereas European Americans may rely on and trust a member's words to convey meaning. | T [Lyser <3]
+#  Denotation, rather than connotation, is more likely to influence how we respond to words. | F [Lyser <3]
+#  Semanticist S. I. Hayakawa refers to "denotation" as "the aura of feelings, pleasant or unpleasant, that surround practically all words." | F [Lyser <3]
+#  In connotative language, a word always has only one meaning. | T [Lyser <3]
+#  Abstract words refer to ideas or concepts you cannot see or touch, such as dignity, hope, and faith. | T [Lyser <3]
+#  Concrete words refer to specific things you perceive with your senses�things you can see, hear, touch, smell, or taste. | T [Lyser <3]
+#  Speaking in an active voice ("Our group has completed the report due next week") rather than a passive voice ("The report due next week has been completed by our group") follows a team talk recommendation. | T [Lyser <3]
+#  In Donnellon's recommendations for effective team talk, you would use the negotiation strategy to ask "what if" questions, propose solution criteria, and summarize areas of agreement. | T [Lyser <3]
+#  The 6 dimensions in Donnellon's team talk include conflict management, negotiation, and identification. | T [Lyser <3]
+#  "Hey Fred, try to find out whether Bob will be able to hang out with us after the meeting is over" is an example of the social equality dimension of team talk. | T [Lyser <3]
+#  "Wouldn't it be great if you submitted a plan based on total group consensus?" is an example of the minimal power differentiation dimensions of team talk. | F [Lyser <3]
+#  Effective group members in positions of power engage in team talk by refraining from talking and interrupting more than others do. | T [Lyser <3]
+#  Bypassing is the means we use to achieve group goals, the stimulus we use to build group relationships, and the evidence we use to assess group work. | F [Lyser <3]
+#  Effective group members who understand the importance of team talk use "I" language more than they use "you" and "we" language. | F [Lyser <3]
+#  Group members who look for meaning in the people using words rather than in the words themselves are less likely to bypass or be bypassed. | T [Lyser <3]
+#  The use of jargon is always counterproductive in communication. | F [Lyser <3]
+#  When dealing with a group member who uses abusive language to attack or intimidate others, your textbook suggests asking the person to repeat what he or she has said. | T [Lyser <3]
+#  When dealing with a group member who uses abusive language to attack or intimidate others, your textbook recommends using controlling behaviors such as raising your own voice, swearing, or using sarcasm. | F [Lyser <3]
+#  Men tend to language that includes tag questions such as "Let's move on to the next item on the agenda. Okay?" | F [Lyser <3]
+#  Male speech is generally characterized asmore direct and forceful than female speech. | T [Lyser <3]
+#  Dialects are distinct from the commonly accepted form of a particular language. | T [Lyser <3]
+#  A dialect is the sound of one language imposed on another. | F [Lyser <3]
+#  A consistent finding across several studies is that speakers of Standard American English are judged as more intelligent, ambitious, and successful. | T [Lyser <3]
+#  Many middle-class African Americans engage in codeswitching as they speak both Black English and Standard American English. | T [Lyser <3]
+#  "Those who know do not speak. Those who speak do not know" is a Chinese proverb that recognizes the power of speech. | F [Lyser <3]
+#  Researchers suggest that more than 90% of the meaning generated when interacting with others is conveyed through nonverbal behavior. | F [Lyser <3]
+#  Good-looking people tend to make more money and get promoted more often than those with average looks. | T [Lyser <3]
+#  Direct and consistent eye contact is insulting to many North Americans. | F [Lyser <3]
+#  Emoticons such as J or :-( are very effective substitutes for communicating feelings and emotions in virtual groups. | F [Lyser <3]
+#  If you slouch in your chair, other group members may interpret your posture as lack of interest or dislike for the group. | T [Lyser <3]
+#  Touch in groups can result in greater teamwork, solidarity, and sharing among members. | T [Lyser <3]
+#  A number of studies have demonstrated that group members prefer face-to-face seating for cooperative activities. | F [Lyser <3]
+#  Members of well-established groups who use Hall's personal zone to communicate with one another will find it difficult to maintain comfortable interaction. | F [Lyser <3]
+#  We usually use Hall's social distance (4 to 8 feet apart) with new acquaintances and strangers. | T [Lyser <3]
+#  Latino, Arab, and Greek group members are usually comfortable with more personal space than a North American. | F [Lyser <3]
+#  Sociologist Jack Gibb describes a defensive climate as one in which members devote attention to protecting themselves and defeating their perceived opponents. | T [Lyser <3]
+#  There may be times when a group member may need to behave in a way that creates a defensive climate in order to help a group achieve its goal. | T [Lyser <3]
+#  The dialectic opposite of the defensive behavior Gibb labels as evaluation is a supportive behavior Gibb labels as description. | T [Lyser <3]
+#  A group member engaging in Gibb's supportive behavior labeled empathy might say, "I can't believe he said that to you. No wonder you're upset." | T [Lyser <3]
+#  According to Jack Gibb's characteristics of supportive and defensive communication climates, control is the opposite of spontaneity. | F [Lyser <3]
+#  Groups in supportive climates show evidence of nonverbal immediacy. | T [Lyser <3]
+#  A group member showing nonverbal immediacy would lean back, sit farther away from members, and rarely make eye contact. | F [Lyser <3]
+#  Listening is the same thing as hearing. | F [Lyser <3]
+#  Listening is our number one communication activity. | T [Lyser <3]
+#  Effective listeners make themselves listen even when the topic or members' comments are boring. | T [Lyser <3]
+#  The social pressure to listen is greater in groups than it is in a conversation with just one person. | F [Lyser <3]
+#  Your textbook describes a study in which personnel managers identified effective listening as the most important communication skill needed by their employees. | T [Lyser <3]
+#  According to your textbook, people without listening training listen at only 25% efficiency. | T [Lyser <3]
+#  Working memory functions to help people remember a series of numbers, words, sentences, or paragraphs immediately after hearing them. | F [Lyser <3]
+#  Of the total time we spend communicating, about 20-35% of that time is spent listening. | F [Lyser <3]
+#  Of the total time we spend communicating, about 10-20% of that time is spent reading. | T [Lyser <3]
+#  Stephen Covey, author of The 7 Habits of Highly Effective People, defines a habit as a practice requiring knowledge, skills, and desire. | T [Lyser <3]
+#  Discriminative listening reveals prejudices that impair our ability to listen effectively to others. | F [Lyser <3]
+#  You can enhance listening comprehension by asking good questions during a discussion. | T [Lyser <3]
+#  Effective comprehensive listeners ask themselves, "Can I accurately identify the main ideas and evidence used to support a group member's claims?" | T [Lyser <3]
+#  Effective analytical listeners ask themselves, "Are group members' claims valid and based on logical reasoning?" | T [Lyser <3]
+#  Evaluating evidence while it is being presented interferes with good listening skills. | F [Lyser <3]
+#  Effective empathic listeners welcome opportunities to hear something new or challenging and pay special attention to the eloquence of a member's words. | F [Lyser <3]
+#  Members who excel in task and maintenance roles are often skilled listeners. | T [Lyser <3]
+#  Members who assume self-centered group roles may be excellent listeners. | T [Lyser <3]
+#  Effective leaders fake attention when listening to others as a way of showing that they are interested in all members and their comments. | F [Lyser <3]
+#  Most people can speak much faster than they can think. | F [Lyser <3]
+#  Thought speed is the speed (in words per minute) that most people can think compared to the speed at which others can speak. | T [Lyser <3]
+#  The Golden Listening Rule is: speak unto others as you would have them speak to you. | F [Lyser <3]
+#  According to your textbook, it may be easier to "listen" to group members in a text-based virtual meeting than in a face-to-face setting. | T [Lyser <3]
+#  If Will asks, "Could you help me out and summarize your point in a couple of sentences?" he is using the listening strategy referred to as listen for big ideas. | T [Lyser <3]
+#  You can help your group by regularly interrupting a group discussion to remind everyone that it's important to listen well. | F [Lyser <3]
+#  Active listeners often have higher blood pressure, a higher pulse rate, and perspire more than members who are passive listeners. | T [Lyser <3]
+#  Paraphrasing is a form of feedback�a listening check�that asks, "Am I right�is this what you mean?" | T [Lyser <3]
+#  According to your textbook, the phrasing of an effective paraphrase can vary in 3 critical ways: knowledge, emotion, and desire. | F [Lyser <3]
+#  In general, women are more likely to listen to the content of what is said, while men tend to focus on the relationships among speakers. | F [Lyser <3]
+#  The Myers-Briggs Type Indicator predicts that introverts will be better comprehensive listeners than extroverts. | T [Lyser <3]
+#  One study concludes that international students see U.S. students as being more willing and more patient as listeners than students from African, Asian, South American, or European cultures. | F [Lyser <3]
+#  Ralph Nichols notes that the volume of notes taken increases their value to the note taker. | F [Lyser <3]
+#  Good listeners adjust their note-taking system to a group's agenda or impose a note-taking pattern on a disorganized discussion. | T [Lyser <3]
+#  "Do members seems to be listening to me or do I seem to be talking to a blank wall?" is a question that can help you translate member feedback into useful information about the way you speak. | T [Lyser <3]
+#  You can engage in useful self-listening by asking yourself, "What do I really want to say to this member or the group?" and then saying it. | F [Lyser <3]
+#  The correct order for the 5 stages in Tuckman's Group Development Stages are forming, performing, storming, norming, adjourning. | F [Lyser <3]
+#  During the forming stage of Tuckman's Group Development model, the group's most important job to "orient itself to itself." | T [Lyser <3]
+#  The frustration and personality conflicts that occur in groups as members compete for acceptance and status are the source of primary tension. | F [Lyser <3]
+#  Most groups experience some form of primary and secondary tension during the forming and storming stages of group development. | T [Lyser <3]
+#  Groups resolve primary tension by being positive and energetic, patient and open-minded, and well prepared. | T [Lyser <3]
+#  Face-to-face meetings may be desirable inthe early stages of virtual groups. | T [Lyser <3]
+#  During the norming stage of group development, groups primarily confront the conflict ? cohesion dialectic and the leadership ? followership dialectic. | F [Lyser <3]
+#  Bormann's secondary tension has similar characteristics to the behavior of members during Tuckman's storming stage of group development. | T [Lyser <3]
+#  During Tuckman's performing stage of group development, feelings of trust and clear goals emerge as members become more comfortable with one another and agree upon group procedures. | F [Lyser <3]
+#  During Tuckman's performing stage of group development, members focus their energies on both the task and social dimensions of group work as they make major decisions and solve critical problems. | T [Lyser <3]
+#  During the antecedent phase of newcomer socialization, new members adjust to group expectations and assume needed roles. | F [Lyser <3]
+#  During the assimilation phrase of newcomer socialization, established members and newcomers blend into a comfortable state of working together to achieve a common goal. | T [Lyser <3]
+#  Locke and Latham's Goal Theory emphasizes the value of setting group goals. | T [Lyser <3]
+#  Locke and Latham's Goal Theory concludes that groups function best when their goals are easy to accomplish and are set by a strong leader. | F [Lyser <3]
+#  When setting goals, groups should ask questions about the goal's clarity, difficulty, meaningfulness, and cost. | T [Lyser <3]
+#  Hidden agendas occur when a member's private goal conflicts with the group's goal. | T [Lyser <3]
+#  Groups should avoid discussing hidden agendas openly in order to avoid member embarrassment and the potential for interpersonal conflict. | F [Lyser <3]
+#  Although group norms are often difficult to express in words, they are real and have a major effect on group productivity and member satisfaction. | T [Lyser <3]
+#  Explicit norms are rarely discussed or openly communicated, whereas implicit norms are put in writing or stated verbally. | F [Lyser <3]
+#  Your textbook divides norms into four categories: interaction norms, procedural norms, status norms, and achievement norms. | T [Lyser <3]
+#  When group members expect and receive an agenda in advance of meetings and follow the agenda during meetings, they are abiding by an interaction norm. | F [Lyser <3]
+#  When a group is having difficulty deciding and the leader has the right to make the final decision, the group is abiding by a status norm. | T [Lyser <3]
+#  Stanley Milgram and Philip Zimbardo's classic studies demonstrated that people in authority positions exert enormous pressure on people to conform. | T [Lyser <3]
+#  When there is enormous pressure for group members to conform, a disruptive member can help the group by not conforming to group norms. | T [Lyser <3]
+#  Destructive nonconformity occurs when a member resists conforming to norms without regard for the best interests of the group and its goals. | T [Lyser <3]
+#  Members who engage in disruptive or nonconforming behavior should always be confronted about their behavior as soon as possible. | F [Lyser <3]
+#  When a highly disruptive member prevents a group from achieving its common goals, a group should use the following strategies�in the following order�to deal with the troublesome member: confront, exclude, and accept. | F [Lyser <3]
+#  You can change group communication norms by changing the way you speak during a discussion. | T [Lyser <3]
+#  In Carl Larson and Frank LaFasto's three-year study of characteristics that explain how and why effective groups develop, they put "a clear and elevated goal" at the top of their list. | T [Lyser <3]
+#  In Carl Larson and Frank LaFasto's three-year study of characteristics of highly effective groups, "the ability to change group norms" was included in their list of eight key characteristics. | F [Lyser <3]
+#  Carl Larson and Frank LaFasto describe principled leadership as the ability of leaders to curb their own ego needs in favor of the group's goal. | T [Lyser <3]
+#  All groups need leadership. | T [Lyser <3]
+#  Whereas managers focus on effectiveness, leaders are concerned with efficiency. | F [Lyser <3]
+#  Bennis and Nanus claim that power is the quality without which leaders cannot lead. | T [Lyser <3]
+#  Position power includes reward and coercive power whereas personal leadership power includes legitimate and informational power. | F [Lyser <3]
+#  Legitimate power is role model power�the ability to influence that arises when one person admires another. | F [Lyser <3]
+#  According to researchers, reward, legitimate, and coercive power are less effective than referent and expert power. | T [Lyser <3]
+#  Coercive power can be effective when group members are aware of the leader's expectations and are warned in advance about the penalties for failing to comply. | T [Lyser <3]
+#  A designated leader is selected by group members or by an outside authority. | T [Lyser <3]
+#  According to the Center for Business Ethics, an ethical leader would by pass a competent person in order to promote a less competent relative or close friend. | F [Lyser <3]
+#  If you want to emerge as the leader of a group, you should talk first and more often than other members. | T [Lyser <3]
+#  When someone from within a group is appointed as its leader, the new leader should openly discuss leadership and seek members' help in resolving potential problems. | T [Lyser <3]
+#  Traits Leadership Theory assumes that leaders are made, not born. | F [Lyser <3]
+#  Autocratic leaders may be effective during a serious crisis when there's not enough time to hold a group discussion. | T [Lyser <3]
+#  According to Styles Leadership Theory, the democratic leadership style is always best. | F [Lyser <3]
+#  Laissez-faire leaders may have power, but they hesitate to exert their influence on group members and group work. | T [Lyser <3]
+#  In mature and highly productive groups, a laissez-faire leader may be a good match for the group. | T [Lyser <3]
+#  Functional Leadership Theory claims that an effective group can have more than one member serving in a leadership role. | T [Lyser <3]
+#  According to Fiedler's Contingency Model of Leadership Effectiveness, relationship-motivated leaders perform best in extremes�such as when the situation is highly controlled or when it is almost out of control. | F [Lyser <3]
+#  According to Fiedler's Contingency Model of Leadership Effectiveness, task-motivated leaders gain satisfaction from completing a task even if the cost is bad feelings between the leader and group members. | T [Lyser <3]
+#  Fiedler's Contingency Model of Leadership Effectiveness claims that there are 2 important dimensions to every leadership situation: the level of leader charisma and the level of leader power. | F [Lyser <3]
+#  According to Hersey and Blanchard, "member readiness" refers to the extent to which members are willing and able to work together. | T [Lyser <3]
+#  According to Hersey and Blanchard's Situational Leadership Model, a leader should tell a group what to do and closely supervise its work when members are able but not unwilling or insecure. | F [Lyser <3]
+#  Hersey and Blanchard's selling stage ofleadership is similar to Tuckman's storming stage of group development. | T [Lyser <3]
+#  Charismatic leaders rely on reward, coercive, and legitimate power. | F [Lyser <3]
+#  Transformational leaders help members understand the need for change, both emotionally and intellectually. | T [Lyser <3]
+#  The 5M Model of Leadership Effectiveness divides leadership tasks into 5 interdependent leadership functions: (1) Model leadership behavior; (2) Motivate members; (3) Manage the group process; (4) Make decisions; and (5) Mentor members. | T [Lyser <3]
+#  In the 5M Model of Leadership Effectiveness, leaders Manage group process by organizing and fully preparing for group meetings and work sessions. | T [Lyser <3]
+#  According to the 5M Model of Leadership Effectiveness, effective leaders explain the rationale or reasons for the decisions they make. | T [Lyser <3]
+#  Women are less likely than men to be preselected as leaders. | T [Lyser <3]
+#  Multiple leaders are the exception rather than the rule in virtual groups. | F [Lyser <3]
+#  Research indicates that there are only slight differences in the behavior and style of male and female leaders. | T [Lyser <3]
+#  In his book, Good to Great, Jim Collins claims that effective leaders act modestly, do not boast, and shun public glorification. | T [Lyser <3]
+#  In his book, Good to Great, Jim Collins claims that effective leaders do what needs to be done to achieve the group's goal inorder to win public fame and fortune. | F [Lyser <3]
+#  Leaders can motivate members from collectivist cultures by helping members achieve personal goals and high status positions. | F [Lyser <3]
+#  Group members from uncertainty avoidance cultures want more structure and instruction from a leader. | T [Lyser <3]
+#  A leader who prefers a democratic approach to decision making may frustrate members who come from high power distance cultures. | T [Lyser <3]
+#  During the 1990s, the African American population increased 58%, and the European American population increased 48%. | F [Lyser <3]
+#  A culture is a learned set of shared interpretations about beliefs, values, and norms which affect the behaviors of a relatively large group of people. | T [Lyser <3]
+#  American Indian tribes, African Americans, Hispanic/Latino Americans, Asian Americans, Arab Americans, Irish Americans, and members of large and small religious groups are all examples of co-cultures. | T [Lyser <3]
+#  The second layer of diversity depicted in your textbook represents internal dimensions over which you have no control such as religion, marital status, and educational background. | F [Lyser <3]
+#  4 barriers to working in diverse groups are ethnocentrism, stereotyping, prejudice, and discrimination. | T [Lyser <3]
+#  A study of college students in the 1990s found that African Americans were stereotyped as lazy and loud, and Jews were described as shrewd and intelligent. | T [Lyser <3]
+#  Ethnocentrism is a generalization about a group of people that oversimplifies their characteristics. | F [Lyser <3]
+#  Discrimination describes how we act out and express prejudices. | T [Lyser <3]
+#  Stereotypes often lead to prejudices. | T [Lyser <3]
+#  Prejudices are based on extensive and direct experience as well as personal, firsthand knowledge about a group of people. | F [Lyser <3]
+#  Scott Page, a political scientist at the University of Michigan, concludes that "intelligence alone is the most important factor in guaranteeing a group different perspectives on a problem." | F [Lyser <3]
+#  The Myers-Briggs Type Indicator looks at the different ways in which people prefer to use their minds: specifically, the way they perceive and the way they make judgments. | T [Lyser <3]
+#  In group discussions, introverts find it hard to both absorb all the information and formulate an opinion about it. | T [Lyser <3]
+#  According to the Myers-Briggs Type Indicator, sensor is the opposite personality trait preference of intuitive. | T [Lyser <3]
+#  Sensor personalities in the Myers-Briggs typology prefer to deal with details. | T [Lyser <3]
+#  According to the Myers-Briggs Type Indicator, perceivers value flexibility, dislike deadlines, and often do their work at the last minute. | T [Lyser <3]
+#  The ideal group would be composed of members who represent the Myers-Briggs personality type of extroverted thinker. | F [Lyser <3]
+#  Edward Hall's work on cultural differences identifies 2 dimensions that characterize cultural groups: uncertainty avoidance and masculine-feminine values. | F [Lyser <3]
+#  4 of Geert Hofstede's cultural dimensions are individualism-collectivism, power distance, uncertainty avoidance, and masculine-feminine values. | T [Lyser <3]
+#  To someone from a collectivist culture, a U.S. communicator's style and behavior may be viewed as selfish, arrogant, antagonistic, power-hungry, ruthless, and impatient. | T [Lyser <3]
+#  In collectivist cultures, there is greater readiness to cooperate with group members. | T [Lyser <3]
+#  About 70% of the world's population regards independence and individualism as a more important value than collectivism. | F [Lyser <3]
+#  Low power distance cultures include those in Israel, New Zealand, and Denmark. | T [Lyser <3]
+#  In low power distance cultures, members accept major differences in power as normal, assuming that all people are not created equal. | F [Lyser <3]
+#  The way in which Japanese people bow toone another in a face-to-face greeting demonstrates how the culture expresses power distance. | T [Lyser <3]
+#  Group members with more feminine cultural values may be highly effective and supportive but are less likely to achieve a real voice or influence in group decision making or leadership. | T [Lyser <3]
+#  Members of a high-context culture tend to speak more, speak louder, and speak more rapidly than people from a low-context culture. | F [Lyser <3]
+#  Germans represent people from a low-context culture. | T [Lyser <3]
+#  Polychronic time people are frequently late for appointments or may not show up at all. | T [Lyser <3]
+#  People in polychronic cultures usually adhere to plans, schedules, and deadlines because time is valuable. | F [Lyser <3]
+#  People from low-context cultures may prefer more information-rich technologies (such as videoconferences), as well as those that offer the feeling of social presence. | F [Lyser <3]
+#  Books such as Men Are from Mars, Women Are from Venushave perpetuated stereotypes that cause harm to bothmen and women, including women's opportunities in the workplace, couple conflict and communication, and self-esteem problems among teenagers. | T [Lyser <3]
+#  Research in group communication claimsthat some female members feel undervalued or invisible when working with male group members. | T [Lyser <3]
+#  In light of Myers-Briggs personality traits, women will be more successful in groups if they do not use sarcasm withmale members or tell them that they're illogical. | F [Lyser <3]
+#  In light of Myers-Briggs personality traits, women may be more effective by asking men what they think rather than what they feel. | T [Lyser <3]
+#  Cheris Kramarae's Muted Group Theory claims that those with power in a society "mute" the voices of women, the poor, and other minority groups. | T [Lyser <3]
+#  In general, women talk more than men do. | F [Lyser <3]
+#  Generation Xers or the Generation X are confident and have high self-esteem. They like to collaborate and favor teamwork. | F [Lyser <3]
+#  Baby Boomers�the workaholic generation�are often adept when it comes to navigating political minefields in the workplace. | T [Lyser <3]
+#  Religious literacy requires the ability to understand and use the religious terms, symbols, images, beliefs, practices, scripture, heroes, themes, and stories that are employed in American public life. | T [Lyser <3]
+#  Islam is older than Judaism. | F [Lyser <3]
+#  Members of the Christian Scientist religious group believe that disease is a delusion of the carnal mind that can be cured by prayer. | T [Lyser <3]
+#  Conflict in groups occurs when members disagree about issues, ideas, decisions, actions, or goals. | T [Lyser <3]
+#  Substantive conflict in groups can improve group problem solving, promote cohesiveness, increase group knowledge, enhance creativity, and help members achieve the group's common goal. | T [Lyser <3]
+#  Conflict in groups is destructive and should be avoided if at all possible. | F [Lyser <3]
+#  When members disagree about issues, ideas, decisions, actions, or goals, substantive, affective, and procedural conflicts are likely to arise. | F [Lyser <3]
+#  When a group cannot negotiate a both/and approach to the individual goal ? group goal dialectic, hidden agendas are likely to result. | T [Lyser <3]
+#  "She acted that way because she doesn't like me and doesn't want our group to succeed" could be a conclusion explained by the principles in Attribution Theory. | T [Lyser <3]
+#  In groups that engage in constructive conflict, disagreement is not punished and low-status members are free to challenge higher-status group members. | T [Lyser <3]
+#  Constructive conflict is characterized by competition and conflict avoidance. | F [Lyser <3]
+#  Once a group member apologizes for a hurtful comment or a harmful action, that member should demand forgiveness from other group members. | F [Lyser <3]
+#  The 5 traditional conflict styles reflect a dialectic tension of leadership ? followership as well as engaged ? disengaged. | F [Lyser <3]
+#  All 5 of the traditional conflict styles reflect 2 factors: concern for individual goals and concern for group goals. | T [Lyser <3]
+#  Avoidance is the most useful and safest conflict style. | F [Lyser <3]
+#  When an issue is not very important to you but very important to other group members, an accommodation conflict style may be appropriate. | T [Lyser <3]
+#  When you have strong beliefs about an issue and believe that the group may be acting unethically or illegally, a compromise conflict style may be the most appropriate. | F [Lyser <3]
+#  The competitive conflict style reflects a high concern for self and a low concern for the group. | T [Lyser <3]
+#  The collaborative conflict style searches for new solutions that achieve both the goals of individual members and the goals of the group. | T [Lyser <3]
+#  The collaborative approach to conflict works best in all situations. | F [Lyser <3]
+#  Email messages are the best way to resolve conflict in virtual groups. | F [Lyser <3]
+#  The 4Rs Method helps group members analyze the conflict before selecting a method for resolving the conflict. | T [Lyser <3]
+#  The first step in the 4Rs Method of examining group conflict is to ask "What are the Results of the conflict if the group fails to act?" | F [Lyser <3]
+#  The first step in the 4Rs Method of examining group conflict is to ask "What are the Reasons why we are having this conflict?" | T [Lyser <3]
+#  In Wisinski's A-E-I-O-U Model of conflict resolution, the first step involves believing that other group members want to resolve the conflict. | T [Lyser <3]
+#  Negotiation and mediation are 2 terms for the same process. | F [Lyser <3]
+#  Negotiation requires third-party intervention in which an outsider who has conflict resolution skills can help the group analyze and resolve a conflict. | F [Lyser <3]
+#  A mediator does not take sides in a dispute. | T [Lyser <3]
+#  Arbitration involves a third party who, after considering all sides in a dispute, decides the conflict will be resolved. | T [Lyser <3]
+#  Studies show that men and women from similar cultures do not differ significantly in terms of the conflict strategies and styles they use. | T [Lyser <3]
+#  In intercultural terms, "face" is the positive image a group member wishes to create or preserve. | T [Lyser <3]
+#  In individualistic cultures, members believe that displaying conflict publically threatens everyone's "face." | F [Lyser <3]
+#  Cultures that place a great deal of value on "saving face" discourage personal attacks and outcomes in which one person "loses." | T [Lyser <3]
+#  Group cohesiveness is characterized by high levels of interaction and a friendly and supportive communication climate. | T [Lyser <3]
+#  You can enhance group cohesiveness by using terms such as "I" and "my" instead of "we" and "our." | F [Lyser <3]
+#  Highly cohesive groups are at greater risk of succumbing to groupthink. | T [Lyser <3]
+#  In order to avoid groupthink, you should discourage individual group members from working on the group's problem individually. | F [Lyser <3]
+#  The groupthink symptom of rationalization is illustrated in the following comment by a group member: "What do they expect�miracles? We didn't have enough time, members, or resources to solve this problem." | T [Lyser <3]
+#  The groupthink symptom of mindguarding is illustrated in the following comment by a group member: "Let's not worry about the subcommittee report�they can't even correctly spell the name of the woman who did the research." | F [Lyser <3]
+#  The groupthink symptom of self-censorship is illustrated in the following comment by a group member: "I'm not crazy about this idea, but everyone else seems to think it's terrific. I guess I'll go along with the group and vote 'yes' when it's time to approve or disapprove the proposal." | T [Lyser <3]
+#  You can reduce the chances of groupthink by following a formal decision-making procedure that encourages members to disagree and evaluate one another's ideas. | T [Lyser <3]
+#  According to a study commissioned by the Association of American Colleges and Universities, "teamwork skills and the ability to collaborate with others in diverse group settings" was ranked first as an essential learning outcome in 2 of 4 major categories. | T [Lyser <3]
+#  Employers view proficiency in a field of study as more important than group communication skills. | F [Lyser <3]
+#  Your textbook defines group communication as the interaction of 5 to 7 people working to make a good decision. | F [Lyser <3]
+#  The basic components of group communication are members, interaction, independence, goals, and working. | T [Lyser <3]
+#  A group of 5 members has the potential for 90 different types of interaction. | T [Lyser <3]
+#  In groups with more than 15 members, coordination and control become difficult. | T [Lyser <3]
+#  According to your textbook, leadership is the single factor that separates successful groups from unsuccessful groups. | F [Lyser <3]
+#  As groups grow larger, member satisfaction increases. | F [Lyser <3]
+#  Generally, there are 2 sources of noise: external and internal. | T [Lyser <3]
+#  A soft speaking voice can create noise in a communication transaction. | T [Lyser <3]
+#  Feedback is always verbal rather than nonverbal | F [Lyser <3]
+#  When group members work together to achieve a common goal, the size of the group, the physical setting, and the group's role and status in an organization are components of the communication context. | T [Lyser <3]
+#  Your biases, distracting thoughts about other activities, fatigue, and hunger can cause noise in a communication transaction. | T [Lyser <3]
+#  Unlike the digestive system, a computer system, or even the solar system, groups do not function as a system because they involve interdependent members interacting with one another. | F [Lyser <3]
+#  Systems theory assumes that groups and their members are unpredictable. | T [Lyser <3]
+#  The term synergy comes from the Greek word synonymwhich means "similar meaning." | F [Lyser <3]
+#  Synergy refers to a situation in which "the whole is greater than the sum of its individual parts." | T [Lyser <3]
+#  PTAs, labor unions, veterans' groups, fire and police auxiliary groups, and neighborhood and community associationsare examples of self-help groups. | F [Lyser <3]
+#  On college campuses, intramural athletic teams as well as sororities and fraternities are examples of social groups. | T [Lyser <3]
+#  Work groups collaborate to achieve specific goals on behalf of a business or organization. | T [Lyser <3]
+#  "Ad hoc" committees remain active in order toaccomplish ongoing tasks on behalf of a larger group. | F [Lyser <3]
+#  In a panel discussion, several group members interact with one another on a common topic for the benefit of an audience. | T [Lyser <3]
+#  In a group symposium, group members interact with one another on a common topic for the benefit of an audience. | F [Lyser <3]
+#  Asynchronous group communication occurs simultaneously and in real time. | F [Lyser <3]
+#  When a task is complex and the answers are unclear, an effective group will perform better than individuals working alone. | T [Lyser <3]
+#  Generally, a smart person can generatemore innovative ideas and creative solutions than a group can. | F [Lyser <3]
+#  A Microsoft study found that nonproductivemeetings can waste 2 of every 5 workdays. | T [Lyser <3]
+#  Without understanding group communication theories, you will have difficulty understanding why a particular method works in one situation and fails in another. | T [Lyser <3]
+#  Resolving group dialects requires an either/orapproach rather than a both/and approach. | F [Lyser <3]
+#  Relational Dialectics Theory claims that relationships are characterized by ongoing tensions between the contradictory and complex elements of human experiences. | T [Lyser <3]
+#  In the best of groups, individual goals support the group's common goal. | T [Lyser <3]
+#  "Two's company; three's a crowd" and "Music makes the world go 'round" are examples of dialectic tensions. | F [Lyser <3]
+#  Groups without constructive conflict have difficulty analyzing the wisdom of their decisions. | T [Lyser <3]
+#  The structure ? spontaneity dialectic relies on both tested procedures to help a group achieve its goal as well as creative thinking. | T [Lyser <3]
+#  Heterogeneous groups include members who are different from one another. | T [Lyser <3]
+#  When a group functions as an open system, it guards its boundaries and discourages input from or interaction with the outside. | F [Lyser <3]
+#  The key to balancing both the complex and competing elements in a group is a commitment to working toward the group's goal. | T [Lyser <3]
+#  Empowered groups feel free to exert control over other groups in order to achieve their personal goals. | F [Lyser <3]
+#  The National Communication Association's Credo for Ethical Communication states that every group member should condemn communication that degrades individuals and that expresses intolerance or hatred. | T [Lyser <3]
+#  The National Communication Association's Credo for Ethical Communication contends that group members should accept the consequences of their communication and expect the same of others. | T [Lyser <3]
+#  Decision making results in a position, judgment, or action. | T [Lyser <3]
+#  The process of decision making requires a group to analyze a problem, debate pros and cons, and select and implement a solution. | F [Lyser <3]
+#  As a rule, group problem solving generates more ideas and produces better solutions to complex problems. | T [Lyser <3]
+#  Voting is the best way to make group decisions. | F [Lyser <3]
+#  Voting works best when a group is pressed for time and the issues is not highly controversial. | T [Lyser <3]
+#  Consensus occurs when the majority of group members agree to support a decision or action. | F [Lyser <3]
+#  When your group is trying to reach consensus, you should not agree to a decision or solution you adamantly dislike and can't possibly support. | T [Lyser <3]
+#  False consensus occurs when members give in to group pressure and accept a decision they do not like or support. | T [Lyser <3]
+#  A question of policy asks whether something will or will not happen. | F [Lyser <3]
+#  A question of value asks whether something good or bad will or will not happen. | F [Lyser <3]
+#  "It just feels like the right thing to do" describes the thought process of a dependent decision maker. | F [Lyser <3]
+#  "It feels like the right thing to do" describes the thought process of an intuitive decision maker. | T [Lyser <3]
+#  The Standard Agenda is based on John Dewey's Reflective Thinking Process. | T [Lyser <3]
+#  Research has identified the Standard Agenda approach as the most effective problem-solving model. | F [Lyser <3]
+#  The Standard Agenda requires group members to follow 7 steps that begin with task clarification and end with solution suggestions. | F [Lyser <3]
+#  During the fact-finding step of the Standard Agenda, members must answer questions such as "How serious or widespread is the problem?" and "What are the causes of the problem?" | T [Lyser <3]
+#  Analysis paralysis can immobilize a group because members cannot determine the cause of problem or because they cannot figure out a way to change human nature. | T [Lyser <3]
+#  The Functional Approach to group problem solving is based on several models including John Dewey's Reflective Thinking Process. | T [Lyser <3]
+#  Each step of the Functional Approach to group problem solving should be completed in order. | F [Lyser <3]
+#  The Functional Approach to group problem solving claims that communication is the instrument groups use to reach decisions and generate solutions. | T [Lyser <3]
+#  The Functional Theory Approach to problem solving emphasizes that group members must identify the resources and research necessary for making a decision before selecting appropriate procedures for developing an effective solution. | T [Lyser <3]
+#  The Preparation Function in the Functional Approach to problem solving requires that group members establish and use agreed-upon criteria to evaluate possible solutions. | F [Lyser <3]
+#  One of the factors that makes the Single Question Format of group problem solving unique is its focus on creating a collaborative communication climate. | T [Lyser <3]
+#  One of the factors that makes the Single Question Format of group problem solving unique is its focus on goal clarity and issue analysis. | T [Lyser <3]
+#  One of the factors that makes the Single Question Format of group problem solving unique is its focus on identifying and analyzing possible solutions. | F [Lyser <3]
+#  Creativity requires the nonjudgmental process of searching for, separating, and connecting unrelated ideas and elements. | T [Lyser <3]
+#  When a group uses creativity to enhance problem solving, insight represents the "aha" moment that occurs when a new approach or solution emerges. | T [Lyser <3]
+#  The 3 creative problem-solving methods described in your textbook are the Single Question Format, brainstorming, and consensus seeking. | F [Lyser <3]
+#  Brainstorming is based on several models including John Dewey's Reflective Thinking Process. | F [Lyser <3]
+#  Brainstorming is based on the assumption that quantity of ideas and output breeds quality. | T [Lyser <3]
+#  In a brainstorming session, the group should assign someone to write down the group's ideas rather than asking each member to write down all the group's ideas. | T [Lyser <3]
+#  "All Input, No Putdown" is a characteristic of the Nominal Group Technique (NGT). | F [Lyser <3]
+#  Nominal Group Technique is a way of minimizing participation in problem solving and maximizing interpersonal interaction and debate. | F [Lyser <3]
+#  The Nominal Group Technique (NGT) is structured so that all group members have the opportunity to share ideas and know that their ideas will be considered by the group as a whole. | T [Lyser <3]
+#  In a Nominal Group Technique (DOT) session, each group member writes down his or her ideas before sharing them with others. | T [Lyser <3]
+#  Nominal Group Technique is a decision-making tool that helps groups reduce and refine a large number of suggestions into a manageable number of ideas. | F [Lyser <3]
+#  Studies of brainstorming and Nominal Group Technique have found that Nominal Group Technique often works better for generating ideas that are both numerous and creative. | T [Lyser <3]
+#  DOT is a brainstorming technique intended primarily to generate more ideas. | F [Lyser <3]
+#  The Decreasing Options Technique (DOT) is a decision-making tool that helps groups reduce and refine a large number of suggestions into a manageable number of ideas. | T [Lyser <3]
+#  The steps in the Decreasing Options Technique should be taken in the following order: generate ideas, sort ideas, post ideas, dot the ideas. | F [Lyser <3]
+#  The DOT method works best when a group has generated a significant number of competing ideas and wants to restrain dominant members from exerting too much influence. | T [Lyser <3]
+#  In virtual groups, all types of technology are not equally suited to all types of group interaction. | T [Lyser <3]
+#  One way of encouraging creativity is to encourage innovation and discourage problem solving through instruction and imitation. | T [Lyser <3]
+#  Metaphors can help members explain, understand, guide, and direct creative thinking in ways they would not have thought of otherwise. | T [Lyser <3]
+#  Groups should ignore the fact that members may have preexisting preferences about what a group should do. | F [Lyser <3]
+#  Politics can impair group problem when, for example, a member who wants to get ahead is reluctant to oppose an idea supported by the boss. | T [Lyser <3]
+#  Maslow's Hierarchy of Needs ranks critical needs in the following order: physiological, safety, belongingness, esteem, and self-actualization. | T [Lyser <3]
+#  Maslow's Hierarchy of Needs includes control, inclusion, and affection needs. | F [Lyser <3]
+#  Maslow's most basic needs are physiological and safety needs. | T [Lyser <3]
+#  When people join groups for the personal reward that comes with helping others, they are satisfying Maslow's belongingness need. | F [Lyser <3]
+#  Will Schutz's FIRO theory examines the impact of 3 interpersonal needs: the need for inclusion, control, and affection. | T [Lyser <3]
+#  If Julie confides in and tries to become very close with every group member, she may be exhibiting behavior characteristic of an overpersonal member. | T [Lyser <3]
+#  An abdicrat is a group member whose control needs are met, who has no problem with power, and who is comfortable giving and taking orders. | T [Lyser <3]
+#  If Gabe tries to impress others with what and whom he knows and frequently attracts attention to compensate for feelings of inadequacy, he may be exhibiting behavior characteristic of an overpersonal member. | F [Lyser <3]
+#  You can help satisfy a member's control need by giving that person responsibility for and leadership of a special project or a highly visible and important subcommittee. | T [Lyser <3]
+#  A member who seeks attention or tries to impress other members may have a strong inclusion need. | T [Lyser <3]
+#  Group maintenance roles affect a group's ability to achieve its common goal by focusing on behaviors that help get the job done. | F [Lyser <3]
+#  An opinion seeker is fulfilling group maintenance roles. | F [Lyser <3]
+#  One group member can function effectively in several different roles at the same time. | T [Lyser <3]
+#  Benne and Sheats's roles include information seeker, energizer, harmonizer, compromiser, aggressor, and clown. | T [Lyser <3]
+#  Belvin's team roles include information seeker, energizer, harmonizer, compromiser, aggressor, and clown. | F [Lyser <3]
+#  According to Belvin, a successful coordinator/chair role is filled by a person who is calm, trusting, mature, confident, and decisive. | T [Lyser <3]
+#  According to Benne and Sheats, the gatekeeper of a group encourages quiet members to speak and talkative members to stop speaking. | T [Lyser <3]
+#  Communication apprehension occurs only in a public speaking situation. | F [Lyser <3]
+#  The Personal Report of Communication Apprehension (PRCA) measures a relatively permanent personality type that is unlikely to change significantly unless there is some type of effective intervention or training. | T [Lyser <3]
+#  As a result of talking less, apprehensive participants are often viewed as less confident, less assertive, and less responsible. | T [Lyser <3]
+#  Communication apprehension has significant effects on the amount of talk, the content of communication, and the resulting perceptions of other group members. | T [Lyser <3]
+#  Group members who experience communication apprehension tend to speak less, agree with others rather than voice disagreement, and use more filler phrases such as "well," "you know," and "uh." | T [Lyser <3]
+#  Richmond and McCroskey report that "almost 50% of the population reports being scared about communicating with a person or group at some point in their lives." | F [Lyser <3]
+#  Group members who speak more are often better liked than those who speak infrequently and are more likely to become a group's leader. | T [Lyser <3]
+#  Research has found that some people are more confident when communicating online and in computer-mediated discussions than they are communicating face-to-face with group members. | T [Lyser <3]
+#  The strategies of cognitive restructuring help highly apprehensive group members communicate more confidently because they teach them important skills for participating in a discussion. | F [Lyser <3]
+#  There is nothing a group can do to help members who suffer from high levels of communication apprehension. | F [Lyser <3]
+#  Assertiveness can help raise a group member's level of confidence and reduce communication apprehension. | T [Lyser <3]
+#  Aggressive communicators ask and answer questions without fear or hostility and stand up for their beliefs even when others disagree. | F [Lyser <3]
+#  Passive group members are rarely satisfied with their group experiences. | T [Lyser <3]
+#  Compulsive talkers try or tend to direct the course of a group's discussion and take charge of the group. | T [Lyser <3]
+#  Passive-aggressive group members often get their way by working against or undermining other members behind their backs and by appearing to agree while privately planning an opposite action. | T [Lyser <3]
+#  Group member effectiveness increases as you move from passivity to assertiveness and then decreases as you move beyond assertiveness into aggressiveness. | T [Lyser <3]
+#  When deciding how to say "No" to someone, make sure your statement is clear, as in "No, I'm not willing to take notes again." | T [Lyser <3]
+#  In order to achieve an optimal group experience, groups must negotiate several dialectic tensions such as engaged ? disengaged and task dimensions ? social dimensions. | T [Lyser <3]
+#  Motivation recognizes and financially compensates group members for work well done. | F [Lyser <3]
+#  Maslow's belongingness, esteem, and self-actualization needs are classified as motivators rather than satisfiers. | T [Lyser <3]
+#  Money can satisfy deficiency needs, but it will not necessarily motivate a group or its members to work harder or better. | T [Lyser <3]
+#  Meeting Maslow's self-actualization needs can motivate group members when they provide prestige, status, and a sense of achievement. | F [Lyser <3]
+#  According to Schutz's FIRO Theory, if you know that some group members have an unmet inclusion need, you can motivate them by asking them to participate more actively and telling them how valuable they are to the group. | T [Lyser <3]
+#  Brainstorming often works best in a high-inclusion, low-control atmosphere. | T [Lyser <3]
+#  In Myers-Briggs terms, thinkers should be thanked for their analysis but also reminded that logical decisions impact real people. | T [Lyser <3]
+#  In Myers-Briggs terms, you can motivate intuitives by providing a detailed agenda, firm deadlines, and clear standards and expectations for success. | F [Lyser <3]
+#  You can motivate judgers by assuring them that they will be given opportunities to reconsider all decisions and make midcourse adjustments whenever needed. | F [Lyser <3]
+#  Group members from low-context cultures often complain that they never receive praise or rewards when, in fact, they are highly respected and valued by others. | T [Lyser <3]
+#  Members from polychronic time cultures are motivated in groups that concentrate on a specific task or goal and that meet their deadlines. | F [Lyser <3]
+#  When groups experience apathy, intrinsic motivators�such as a sense of meaningfulness and progress�are minimal or missing. | T [Lyser <3]
+#  In order to motivate the members of virtual groups, provide a detailed agenda well in advance of a scheduled meeting, along with any resources and online documents needed for the meeting. | T [Lyser <3]
+#  In order to motivate members of virtual groups, insist that all members stay online throughout the meeting regardless of the issues being discussed. | F [Lyser <3]
+#  Informational feedback tells people what to do whereas controlling feedback tells people how they are doing. | F [Lyser <3]
+#  When providing informational feedback to group members, "it" statements focus more on personal traits of individual group members than on the task. | F [Lyser <3]
+#  When providing informational feedback to group members, "it" statements avoid using the word "you" when describing individual or group behavior. | T [Lyser <3]
+#  Reprimands motivate because they threaten to withhold valued extrinsic rewards. | F [Lyser <3]
+#  For the most part, extrinsic rewards do not motivate groups to work together in pursuit of a shared goal. | T [Lyser <3]
+#  Completing a challenging group project can provide intrinsic rewards. | T [Lyser <3]
+#  One study examining employee turnover found that the chief reason people give for leaving a job is the lack of intrinsic rewards. | T [Lyser <3]
+#  Groups or leaders with the power to reward members should make sure the rewards are fair, equitable, competitive, and appropriate. | T [Lyser <3]
+#  Leaders with referent and informational power are least likely to motivate their group members. | F [Lyser <3]
+#  If each group member does not have an equal opportunity to earn rewards, the group may become less productive. | T [Lyser <3]
+#  Researchers have found that high-performing groups participate in a wide variety and frequency of celebrations where recognition and appreciation is expressed. | T [Lyser <3]
+#  The highest-performing managers show more warmth, fondness, and affection towards others than do the bottom 25% of managers. | T [Lyser <3]
+#  If you and your group decide that someone deserves to be punished, the punishment should be unpredictable, gradual, and personal. | F [Lyser <3]
+#  Punishment�subjecting members to a penalty or negative consequence�does not motivate. | T [Lyser <3]
