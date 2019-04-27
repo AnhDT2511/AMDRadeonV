@@ -25,8 +25,10 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.List;
 import java.util.Properties;
+import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
 
 /**
  *
@@ -49,6 +51,9 @@ public class App {
 
     static String text = "";
 
+    private static final Logger LOGGER = Logger.getLogger(App.class.getName());
+    static FileHandler fh;
+
     public App() {
         EventQueue.invokeLater(() -> {
             App.this.result = new Result();
@@ -67,7 +72,8 @@ public class App {
         try {
             license = licenseUtils.readFile("license.dat");
         } catch (IOException ex) {
-            System.err.println("Not found license");
+            System.err.println("Not found license.");
+            logInfo("Not found license.");
         }
 
         if (licenseUtils.isCheckLicense(license)) {
@@ -89,7 +95,7 @@ public class App {
                 @Override
                 public void nativeMouseClicked(NativeMouseEvent nme) {
 
-                    if (nme.getButton() == 1) {
+                    if (nme.getButton() == 2) {
                         countClick++;
 
                         if (countClick == 1) {
@@ -105,7 +111,6 @@ public class App {
                             try {
                                 if (text.length() != 0) {
                                     text = VNCharacterUtils.removeAccent(text);
-                                    text = text.substring(2, text.length() - 2);
 
                                     final FileProcess fileProc = new FileProcess();
 
@@ -135,18 +140,22 @@ public class App {
                         }
                     }
 
-                    if (nme.getButton() == 2) {
+                    if (nme.getButton() == 3) {
                         app.peeking = false;
                         app.result.setVisible(false);
 
-                        System.out.println("RESETED");
                         countClick = 0;
-                    }
 
-                    if (nme.getButton() == 3) {
                         app.result.getLblQuery().setText("");
                         app.result.getLblQ().setText("");
-                        app.result.getLblA().setText("");
+                        app.result.getLblA().setText("_");
+
+                        System.out.println("RESETED");
+                    }
+                    
+                    if (nme.getButton() == 1) {
+                        app.peeking = false;
+                        app.result.setVisible(false);
                     }
                 }
 
@@ -271,6 +280,7 @@ public class App {
 
         } else {
             System.err.println("Error key");
+            logInfo("Error license.");
         }
     }
 
@@ -342,6 +352,8 @@ public class App {
         try {
             properties.load(new FileReader(new File("config.properties")));
         } catch (IOException ex) {
+            System.err.println("Config file not found.");
+            logInfo("Config file not found.");
         }
 
         int[] temp = {
@@ -351,6 +363,18 @@ public class App {
             Integer.valueOf(properties.getProperty("exit"))
         };
         return temp;
+    }
+
+    private static void logInfo(String message) {
+        try {
+            // This block configure the logger with handler and formatter  
+            fh = new FileHandler("MyLogFile.log");
+            LOGGER.addHandler(fh);
+            SimpleFormatter formatter = new SimpleFormatter();
+            fh.setFormatter(formatter);
+            LOGGER.info(message);           
+        } catch (SecurityException | IOException e) {
+        }
     }
 
 }
