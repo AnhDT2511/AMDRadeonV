@@ -161,10 +161,24 @@ public class App {
 
                 @Override
                 public void nativeMousePressed(NativeMouseEvent nme) {
-                    if (app.suspended && nme.getButton() == 2 && MouseInfo.getPointerInfo().getLocation().getX() >= Toolkit.getDefaultToolkit().getScreenSize().getWidth() - 3.0 && MouseInfo.getPointerInfo().getLocation().getY() >= Toolkit.getDefaultToolkit().getScreenSize().getHeight() - 3.0) {
+                    //
+                }
+
+                @Override
+                public void nativeMouseReleased(NativeMouseEvent nme) {
+                    if (nme.getButton() == 1) {
+                        app.unlocking = false;
+                    }
+                }
+            });
+
+            GlobalScreen.addNativeMouseMotionListener(new NativeMouseMotionListener() {
+                @Override
+                public void nativeMouseMoved(NativeMouseEvent nme) {
+                    if (app.suspended && MouseInfo.getPointerInfo().getLocation().getX() >= Toolkit.getDefaultToolkit().getScreenSize().getWidth() - 3.0 && MouseInfo.getPointerInfo().getLocation().getY() >= Toolkit.getDefaultToolkit().getScreenSize().getHeight() - 3.0) {
                         new Thread(() -> {
                             app.unlocking = true;
-                            for (int i = 0; i < 30; ++i) {
+                            for (int i = 0; i < 40; ++i) {
                                 if (app.unlocking && MouseInfo.getPointerInfo().getLocation().getX() >= Toolkit.getDefaultToolkit().getScreenSize().getWidth() - 3.0 && MouseInfo.getPointerInfo().getLocation().getY() >= Toolkit.getDefaultToolkit().getScreenSize().getHeight() - 3.0) {
                                     try {
                                         Thread.sleep(100);
@@ -192,19 +206,7 @@ public class App {
                             }).start();
                         }).start();
                     }
-                }
-
-                @Override
-                public void nativeMouseReleased(NativeMouseEvent nme) {
-                    if (nme.getButton() == 1) {
-                        app.unlocking = false;
-                    }
-                }
-            });
-
-            GlobalScreen.addNativeMouseMotionListener(new NativeMouseMotionListener() {
-                @Override
-                public void nativeMouseMoved(NativeMouseEvent nme) {
+                    
                     if (!app.suspended && MouseInfo.getPointerInfo().getLocation().getX() <= 15.0 && MouseInfo.getPointerInfo().getLocation().getY() >= Toolkit.getDefaultToolkit().getScreenSize().getHeight() - 15.0) {
                         app.peeking = true;
                         app.result.setVisible(true);
