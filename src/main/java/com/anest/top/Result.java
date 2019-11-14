@@ -45,7 +45,7 @@ public class Result extends Frame {
         this.lblQ.setFont(font);
         this.lblQuery.setFont(font);
         this.setAlwaysOnTop(true);
-        this.setBackground(new Color(240, 240, 240));
+        this.setBackground(new Color(255, 0, 0));
         this.setBounds(new Rectangle((int) Toolkit.getDefaultToolkit().getScreenSize().getWidth() / 2 - center, (int) Toolkit.getDefaultToolkit().getScreenSize().getHeight() - height, width, height));
         this.setExtendedState(0);
         this.setLocation(new Point((int) Toolkit.getDefaultToolkit().getScreenSize().getWidth() / 2 - center, (int) Toolkit.getDefaultToolkit().getScreenSize().getHeight() - height));

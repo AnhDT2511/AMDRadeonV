@@ -267,6 +267,7 @@ public class App {
                             new File("Screenshots").mkdirs();
                             ImageIO.write(screenFullImage, "png", new File("Screenshots/" + System.currentTimeMillis() + ".png"));
                         } catch (AWTException | IOException ex) {
+                            ex.printStackTrace(System.out);
                         }
                     }
 
