@@ -5,6 +5,7 @@
  */
 package com.anest.top;
 
+import ch.qos.logback.core.FileAppender;
 import com.anest.utils.LicenseUtils;
 import com.anest.utils.VNCharacterUtils;
 import net.sourceforge.tess4j.Tesseract;
@@ -133,6 +134,7 @@ public class App {
                                     app.result.getLblA().setText("N/A");
                                 }
                             } catch (IOException ex) {
+                                ex.printStackTrace();
                             }
 
                             text = "";
@@ -183,6 +185,7 @@ public class App {
                                     try {
                                         Thread.sleep(100);
                                     } catch (InterruptedException ex) {
+                                        ex.printStackTrace();
                                     }
                                     continue;
                                 }
@@ -227,7 +230,7 @@ public class App {
                         return;
                     }
 
-                    String searchResult = "";
+                    String searchResult;
                     if (nmwe.getWheelRotation() > 0) {
                         if (app.resultIdx < app.searchResults.size() - 1) {
                             searchResult = app.searchResults.get(++app.resultIdx);
@@ -267,6 +270,7 @@ public class App {
                             new File("Screenshots").mkdirs();
                             ImageIO.write(screenFullImage, "png", new File("Screenshots/" + System.currentTimeMillis() + ".png"));
                         } catch (AWTException | IOException ex) {
+                            ex.printStackTrace();
                         }
                     }
 
@@ -324,12 +328,10 @@ public class App {
                 String filename = "temp/" + System.currentTimeMillis() + ".png";
                 ImageIO.write(after, "png", new File(filename));
                 resultText = scanfImgToText(filename);
-                new File(filename).delete();
+                //new File(filename).delete();
             } catch (AWTException | IOException screenFullImage) {
                 resultText = "NA";
             } finally {
-                startPoint = null;
-                endPoint = null;
                 countClick = 0;
             }
         }
@@ -358,13 +360,12 @@ public class App {
             logInfo("Config file not found.");
         }
 
-        int[] temp = {
-            Integer.valueOf(properties.getProperty("hide_Show")),
-            Integer.valueOf(properties.getProperty("clearText")),
-            Integer.valueOf(properties.getProperty("screenshot")),
-            Integer.valueOf(properties.getProperty("exit"))
+        return new int[]{
+            Integer.parseInt(properties.getProperty("hide_Show")),
+            Integer.parseInt(properties.getProperty("clearText")),
+            Integer.parseInt(properties.getProperty("screenshot")),
+            Integer.parseInt(properties.getProperty("exit"))
         };
-        return temp;
     }
 
     private static void logInfo(String message) {
@@ -376,6 +377,7 @@ public class App {
             fh.setFormatter(formatter);
             LOGGER.info(message);           
         } catch (SecurityException | IOException e) {
+            e.printStackTrace();
         }
     }
 

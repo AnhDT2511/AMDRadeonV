@@ -62,7 +62,7 @@ public class Result extends Frame {
 
             @Override
             public void windowClosing(WindowEvent evt) {
-                Result.this.exitForm(evt);
+                Result.this.exitForm();
             }
         });
         this.lblQuery.setPreferredSize(new Dimension(width, height/3));
@@ -74,7 +74,7 @@ public class Result extends Frame {
         this.pack();
     }
 
-    private void exitForm(WindowEvent evt) {
+    private void exitForm() {
         System.exit(0);
     }
 
